@@ -1,0 +1,6 @@
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\320040332\Source\Repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
